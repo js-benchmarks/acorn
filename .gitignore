@@ -59,3 +59,14 @@ typings/
 
 # next.js build output
 .next
+
+.DS_Store
+**/node_modules
+!/acorn-loose/node_modules
+/.tern-port
+/local
+/bin/_acorn.js
+/acorn/dist
+/acorn-loose/dist
+/acorn-walk/dist
+/yarn.lock
